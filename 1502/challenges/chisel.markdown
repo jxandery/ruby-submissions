@@ -6,7 +6,7 @@
 * Dmitry Vizersky: (replace with your repo url here)
 * Eric Dowty: (replace with your repo url here)
 * Eugene Khanutin: (replace with your repo url here)
-* Jack Yeh: (replace with your repo url here)
+* Jack Yeh: (https://github.com/jxandery/chisel)
 * Jamie Kawahara: (replace with your repo url here)
 * Kenny Chen: (https://github.com/boomkenster/Chisel)
 * Kristina Brown: (https://github.com/kristinabrown/chisel)
